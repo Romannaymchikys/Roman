@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\c++ homework 1(class)\c++ homework 1(class)\main.cpp(20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\c++ homework 1(class)\c++ homework 1(class)\main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\c++ homework 1(class)\c++ homework 1(class)\main.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\c++ homework 1(class)\c++ homework 1(class)\main.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++ homework 1(class).vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\C++ homework 1(class)\Debug\C++ homework 1(class).exe
+  C++ homework 1(class).vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\C++ homework 1(class)\Debug\C++ homework 1(class).pdb (Partial PDB)
