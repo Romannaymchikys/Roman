@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Decryptor.cpp
+  Generating Code...
+c:\users\roman\documents\visual studio 2015\projects\poickovic (v 1.0)\poickovic (v 1.0)\decryptor.cpp(18): warning C4715: 'UnaryFunction::operator()': not all control paths return a value
+  Poickovic (v 1.0).vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\Poickovic (v 1.0)\Debug\Poickovic (v 1.0).exe
+  Poickovic (v 1.0).vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\Poickovic (v 1.0)\Debug\Poickovic (v 1.0).pdb (Partial PDB)
